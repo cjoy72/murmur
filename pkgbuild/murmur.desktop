@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Murmur
+Name[da]=Murmur
+Comment=Ambient soundscape and white noise mixer
+Comment[da]=Atmosfærisk lydbillede- og hvid støj-mikser
+Exec=murmur
+Icon=murmur
+Terminal=false
+Categories=AudioVideo;Audio;Utility;
+StartupWMClass=murmur
